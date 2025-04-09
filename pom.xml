@@ -162,8 +162,8 @@
     </pluginManagement>
   </build>
 
+  /* This ios my testing comment to commit- dyuthi */
 
-  /* This ios my testing comment to commit- bindu */
   <dependencyManagement>
     <dependencies>
       <dependency>
@@ -177,7 +177,8 @@
         <artifactId>jsp-api</artifactId>
         <version>2.2</version>
       </dependency>
-
+     
+      /*this is second commit */
       <dependency>
         <groupId>junit</groupId>
         <artifactId>junit-dep</artifactId>
