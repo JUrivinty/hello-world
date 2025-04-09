@@ -162,8 +162,6 @@
     </pluginManagement>
   </build>
 
-  /* This ios my testing comment to commit- dyuthi */
-
   <dependencyManagement>
     <dependencies>
       <dependency>
@@ -178,7 +176,6 @@
         <version>2.2</version>
       </dependency>
      
-      /*this is second commit */
       <dependency>
         <groupId>junit</groupId>
         <artifactId>junit-dep</artifactId>
